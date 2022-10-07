@@ -1,5 +1,32 @@
 <resources>
     <string name="app_name">GoFoodies</string>
     <string name="splash_welcome_txt">Welcome to GoFoodies</string>
+    <string name="developed_by">Developed By</string>
+    <string name="team_name">knight Developers</string>
+    <string name="phone">Phone</string>
+    <string name="gmail">Gmail</string>
+    <string name="web">Web</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="about_us">Developed By knight Developer team</string>
+    <string name="about_us_support">support: knightdeveloper@gmail.com</string>
+    <string name="profile_setting">Settings</string>
+    <string name="profile_notification">Notification</string>
+    <string name="profile_change_pw">Change Password</string>
+    <string name="profile_logout">Logout</string>
+    <string name="fresh">FRESH</string>
+    <string name="everything">EVERYTHING</string>
+    <string name="fragment1_desc">Everything you will experience will be absolutely fresh</string>
+    <string name="fragment_skip">skip</string>
+    <string name="fragment2_easy">EASY</string>
+    <string name="payment">PAYMENT</string>
+    <string name="fragment2_desc">Everything you will experience will be absolutely fresh</string>
+    <string name="fragment2_skip">skip</string>
+    <string name="calling">CALLING</string>
+    <string name="fragment3_desc">Everything you will experience will be absolutely</string>
+    <string name="fragment3_finish">Finish</string>
+    <string name="edit_profile_save">SAVE</string>
+    <string name="edit_profile_cancel">CANCEL</string>
+
 
 </resources>

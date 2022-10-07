@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="408dp"
-        android:text="@string/facebook"
+        android:text="@string/web"
         android:textColor="#F5151515"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"

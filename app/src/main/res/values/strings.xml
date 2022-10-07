@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoFoodies</string>
+    <string name="splash_welcome_txt">Welcome to GoFoodies</string>
+
 </resources>

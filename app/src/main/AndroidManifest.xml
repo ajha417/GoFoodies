@@ -14,10 +14,10 @@
         android:theme="@style/Theme.GoFoodies"
         tools:targetApi="31">
         <activity
-            android:name=".sign_up"
+            android:name=".activities.sign_up"
             android:exported="false" />
         <activity
-            android:name=".Login"
+            android:name=".activities.Login"
             android:exported="false" />
         <activity
             android:name=".activities.SplashScreenActivity"

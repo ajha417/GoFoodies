@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="408dp"
-        android:text="@string/facebook"
+        android:text="@string/web"
         android:textColor="#F5151515"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -67,7 +67,7 @@
         app:srcCompat="@drawable/gmail" />
 
     <ImageView
-        android:id="@+id/aboutus_imageview_facebook"
+        android:id="@+id/aboutus_imageview_web"
         android:layout_width="70dp"
         android:layout_height="72dp"
         android:layout_marginBottom="452dp"
@@ -75,7 +75,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.882"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/facebook" />
+        app:srcCompat="@drawable/web" />
 
     <TextView
         android:id="@+id/textView6"

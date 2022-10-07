@@ -59,7 +59,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.326"
-        app:srcCompat="@drawable/profilee" />
+        app:srcCompat="@drawable/profilee"/>
 
     <TextView
         android:id="@+id/textView"
@@ -97,7 +97,7 @@
         app:layout_constraintHorizontal_bias="0.118"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.812" />
+        app:layout_constraintVertical_bias="0.812"/>
 
     <ImageView
         android:id="@+id/contactus_imageview_gmail"
@@ -109,7 +109,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/gmail"
-        tools:ignore="ImageContrastCheck" />
+        tools:ignore="ImageContrastCheck"/>
 
     <ImageView
         android:id="@+id/contactus_imageview_web"
@@ -121,6 +121,6 @@
         app:layout_constraintHorizontal_bias="0.87"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/web"
-        tools:ignore="ImageContrastCheck" />
+        tools:ignore="ImageContrastCheck"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

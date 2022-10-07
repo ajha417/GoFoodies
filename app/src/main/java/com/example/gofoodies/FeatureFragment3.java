@@ -20,7 +20,7 @@ public class FeatureFragment3 extends AppCompatActivity {
 
         setContentView(R.layout.activity_feature_fragment3);
 
-        textView = findViewById(R.id.fragment1_txt_skip);
+        textView = findViewById(R.id.fragment3_txt_finish);
 
         textView.setOnClickListener(new View.OnClickListener() {
             @Override
